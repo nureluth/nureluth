@@ -8,7 +8,7 @@
 - 📚 Currently studying Informatics (D3) while exploring coding & digital products  
 - 💼 Experience in **Customer Retention & CRM**, handling after-sales, client relations, and team support  
 - 🚗 Currently working as **Team Admin Marketing at WS Rental**, helping streamline operations & customer service  
-- 🌱 Passionate about tech, AI, and turning ideas into real digital solutions  
+- 🌱 Passionate about investment, tech, AI, and turning ideas into real digital solutions  
 
 ---
 
