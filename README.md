@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nureluth  
+# Hi there 👋, I'm Lutfi  
 
 🎓 **Informatics Student** | 💼 **Team Admin Marketing @ WS Rental** | 🌐 Exploring **AI, Web Development & Digital Business**  
 
