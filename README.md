@@ -30,7 +30,7 @@
 ## 📫 Get in Touch
 - LinkedIn: [linkedin.com/in/nureluth](#)  
 - Email: **nureluth@gmail.com**  
-- Instagram: @nureluth(#)  
+- Instagram: @nureluth 
 
 ---
 
