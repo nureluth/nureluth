@@ -28,26 +28,11 @@
 ---
 
 ## 📫 Get in Touch
-- LinkedIn: [linkedin.com/in/nureluth](#)  
-- Email: **nureluth@gmail.com**  
-- Instagram: @nureluth(https://www.instagram.com/nureluth)
+
+- **LinkedIn**: [nureluth](https://www.linkedin.com/in/nureluth)
+- **Email**: [nureluth@gmail.com](mailto:nureluth@gmail.com)
+- **Instagram**: [@nureluth](https://www.instagram.com/nureluth)
 
 ---
 
 ⭐️ *Thanks for visiting my profile! Feel free to explore my repos and connect with me.*  
-## Hi there 👋
-
-<!--
-**nureluth/nureluth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
