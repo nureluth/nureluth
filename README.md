@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Lutfi  
 
-🎓 **Informatics Student** | 💼 **Team Admin Marketing @ WS Rental** | 🌐 Exploring **AI, Web Development & Digital Business**  
+🎓 **Informatics Student at Electronic Engineering Polytechnic Institute of Surabaya** | 💼 **Team Admin Marketing at WS Rental** | 🌐 Exploring **AI, Web Development & Digital Business**  
 
 ---
 
@@ -19,11 +19,15 @@
 
 ---
 
-## 📂 Featured Projects
-- 🚗 [Car Rental Catalog Website](#) – simple showcase website for rental car units  
-- 📊 [Stock Tracker](#) – app for tracking investments & stock performance  
-- 🎨 [Canva Template Portfolio](#) – templates for small businesses & personal branding  
-- 🖥️ [Algorithms & Data Structures](#) – collection of study projects in coding  
+## 📂 Current Projects 
+
+- **[Wiselab](https://wiselabco.netlify.app)** – A comprehensive digital platform ecosystem, featuring an AI Content Generator, Website Builder, and affiliate tools.
+- **[Wisefit](https://wisefit.store)** – Building a premium, custom-coded e-commerce experience for global activewear.
+
+---
+
+### 🛠️ Tech Stack & Tools
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
