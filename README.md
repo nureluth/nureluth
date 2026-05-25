@@ -31,7 +31,8 @@
 - **LinkedIn**: [nureluth](https://www.linkedin.com/in/nureluth)
 - **Email**: [nureluth@gmail.com](mailto:nureluth@gmail.com)
 - **Instagram**: [@nureluth](https://www.instagram.com/nureluth)
-
+- **Upwork**: [Nur L.](https://www.threads.com/@dennypratama_k/post/DGxlUD9h8Vn?xmt=AQG04k0LNiMHHsdeamKu67VJFhFGDamkYazkAQyks7DYjK_2YMMFCIT1llQ8SHKP_KnFjt2N&source_surface=35)
+  
 ---
 
 ⭐️ *Thanks for visiting my profile! Feel free to explore my repos and connect with me.*  
