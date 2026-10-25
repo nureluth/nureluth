@@ -21,8 +21,8 @@
 
 ## 📂 Current Projects 
 
-- **[Wiselab](getwiselab.com)** – A comprehensive digital platform ecosystem, featuring an AI Assistant, Website Builder, and some other tools.
-- **[Wisefit](wisefit.store)** – Building a premium, custom-coded e-commerce experience for global activewear.
+- **[Wiselab](https://getwiselab.com)** – A comprehensive digital platform ecosystem, featuring an AI Assistant, Website Builder, and some other tools.
+- **[Wisefit](https://wisefit.store)** – Building a premium, custom-coded e-commerce experience for global activewear.
 
 ---
 
